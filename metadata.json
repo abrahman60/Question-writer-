@@ -1,0 +1,6 @@
+{
+  "name": "নোট ও ডকুমেন্ট এডিটর",
+  "description": "স্মার্ট নোট, রিচ টেক্সট এডিটর, ম্যাথ, ফন্ট, ড্রইং ও ফাইল সেভ (Word, PDF, DOC) অ্যাপ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
